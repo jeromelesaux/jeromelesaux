@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+You will find here all my personnal projects, some are WIP, others are finished.
+
+
 <!--
 **jeromelesaux/jeromelesaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
