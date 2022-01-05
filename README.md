@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You will find here all my personnal projects, some are WIP, others are finished.
+You will find here all my personnal projects, some are WIP, others can be used.
 
 
 <!--
